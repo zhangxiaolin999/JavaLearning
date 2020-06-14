@@ -13,5 +13,4 @@ public class Phone {
     public void sendMessage(){
         System.out.println("群发短信");
     }
-
 }
